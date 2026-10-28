@@ -1,6 +1,8 @@
 # Untangle
 
-A personal task board where boxes are tasks and arrows are dependencies. Status is derived from the graph: a task is ready, blocked, in progress or done depending on what it waits on. It also shows the critical path, checks due dates against the chain, and has a second board type for mapping processes as flowcharts.
+What if a kanban board was a process diagram?
+
+Untangle is a personal task board where boxes are tasks and arrows are dependencies. Status is derived from the graph: a task is ready, blocked, in progress or done depending on what it waits on. It also shows the critical path, checks due dates against the chain, and has a second board type for mapping processes as flowcharts.
 
 Hobby project, built to learn and to scratch my own itch. Not production software.
 
